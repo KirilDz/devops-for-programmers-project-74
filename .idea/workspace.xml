@@ -4,65 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65861fe2-ccef-4690-a532-64d818c53fd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/push.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/devops-for-programmers-project-74.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile.production" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.config/configstore/update-notifier-npm.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.eslintrc.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.github/workflows/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.npmrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.sequelizerc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__tests__/app.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/config.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/locales/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/migrations/20210904105714-create-article.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/article.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/index.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/errorPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/formbody.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/i18next.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/methodOverride.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/pointOfView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/reverseRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/secureSession.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/sensible.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/sequelize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/plugins/static.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/articles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/root.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/articles/edit.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/articles/index.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/articles/new.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/articles/show.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/index.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/application.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/mixins/forms.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.override.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    <list default="true" id="65861fe2-ccef-4690-a532-64d818c53fd3" name="Changes" comment="name tests">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,11 +56,38 @@
       <workItem from="1675679339048" duration="1785000" />
       <workItem from="1675686770325" duration="1275000" />
       <workItem from="1675762093229" duration="1376000" />
-      <workItem from="1675784906248" duration="1385000" />
+      <workItem from="1675784906248" duration="2046000" />
     </task>
+    <task id="LOCAL-00001" summary="jobs">
+      <created>1675795286157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675795286157</updated>
+    </task>
+    <task id="LOCAL-00002" summary="jobs">
+      <created>1675795386603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675795386603</updated>
+    </task>
+    <task id="LOCAL-00003" summary="name tests">
+      <created>1675795460984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675795460984</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jobs" />
+    <MESSAGE value="name tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="name tests" />
   </component>
 </project>
