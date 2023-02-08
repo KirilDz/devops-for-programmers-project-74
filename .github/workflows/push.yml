@@ -28,6 +28,9 @@ jobs:
             push: true
             tags: kirildz/devops-for-programmers-project-74:latest
 
+        - name: Test app
+          run: make ci
+
 #what to do next? build or test?
 #        - name: Tests
 #          run: make ci
