@@ -20,5 +20,14 @@ jobs:
             username: ${{ secrets.DOCKER_USERNAME }}
             password: ${{ secrets.DOCKER_PASSWORD }}
 
+        - name: Build app
+          uses: docker/build-push-action@v3
+          with:
+            context: .
+            file: ./Dockerfile.production
+            push: true
+            tags: kirildz/devops-for-programmers-project-74:latest
+
+#what to do next? build or test?
 #        - name: Tests
 #          run: make ci
