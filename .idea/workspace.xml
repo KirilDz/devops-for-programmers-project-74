@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65861fe2-ccef-4690-a532-64d818c53fd3" name="Changes" comment="actionV1 to V2">
+    <list default="true" id="65861fe2-ccef-4690-a532-64d818c53fd3" name="Changes" comment="added tests">
       <change beforePath="$PROJECT_DIR$/.github/workflows/push.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/push.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <workItem from="1675686770325" duration="1275000" />
       <workItem from="1675762093229" duration="1376000" />
       <workItem from="1675784906248" duration="2892000" />
-      <workItem from="1675876990738" duration="614000" />
+      <workItem from="1675876990738" duration="2541000" />
     </task>
     <task id="LOCAL-00001" summary="jobs">
       <created>1675795286157</created>
@@ -102,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675796305679</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added build">
+      <created>1675877748518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675877748518</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added tests">
+      <created>1675878018928</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675878018928</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +127,8 @@
     <MESSAGE value="added push badge" />
     <MESSAGE value="first buildix setup" />
     <MESSAGE value="actionV1 to V2" />
-    <option name="LAST_COMMIT_MESSAGE" value="actionV1 to V2" />
+    <MESSAGE value="added build" />
+    <MESSAGE value="added tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="added tests" />
   </component>
 </project>
