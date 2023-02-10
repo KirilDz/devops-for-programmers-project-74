@@ -6,6 +6,6 @@ services:
       context: .
       dockerfile: ./Dockerfile.production
     command: npm test
-    volumes:
-      - ./app:/app
+#    volumes:
+#      - ./app:/app
     image: kirildz/devops-for-programmers-project-74
