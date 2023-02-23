@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: ./Dockerfile
-    command: bash -c "sleep 3 && npm start"
+    command: bash -c 'sleep 3 && npm run dev'
     ports:
       - 8080:8080
     volumes:

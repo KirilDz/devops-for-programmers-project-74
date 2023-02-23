@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: ./Dockerfile.production
-    command: npm test
+    command: bash -c 'sleep 3 && npm test'
     image: kirildz/devops-for-programmers-project-74
     depends_on:
       - db
