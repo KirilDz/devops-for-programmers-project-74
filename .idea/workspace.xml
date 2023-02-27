@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65861fe2-ccef-4690-a532-64d818c53fd3" name="Changes" comment="env.example">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.override.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.override.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-    </list>
+    <list default="true" id="65861fe2-ccef-4690-a532-64d818c53fd3" name="Changes" comment="fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <workItem from="1676019972449" duration="1579000" />
       <workItem from="1676313305890" duration="2420000" />
       <workItem from="1676982961931" duration="12555000" />
-      <workItem from="1677488518402" duration="1895000" />
+      <workItem from="1677488518402" duration="2303000" />
     </task>
     <task id="LOCAL-00001" summary="jobs">
       <created>1675795286157</created>
@@ -198,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677502046127</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="fix">
+      <created>1677503402672</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1677503402672</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,11 +220,11 @@
     <MESSAGE value="6 step" />
     <MESSAGE value="env example" />
     <MESSAGE value="env dbhost db" />
-    <MESSAGE value="fix" />
     <MESSAGE value="fix2" />
     <MESSAGE value="added sleep" />
     <MESSAGE value="added environment docker-compose.yml" />
     <MESSAGE value="env.example" />
-    <option name="LAST_COMMIT_MESSAGE" value="env.example" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
