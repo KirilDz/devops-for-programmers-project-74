@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65861fe2-ccef-4690-a532-64d818c53fd3" name="Changes" comment="fix2">
+    <list default="true" id="65861fe2-ccef-4690-a532-64d818c53fd3" name="Changes" comment="added sleep">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.override.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.override.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,8 @@
       <workItem from="1675876990738" duration="2541000" />
       <workItem from="1676019972449" duration="1579000" />
       <workItem from="1676313305890" duration="2420000" />
-      <workItem from="1676982961931" duration="10013000" />
+      <workItem from="1676982961931" duration="12555000" />
+      <workItem from="1677488518402" duration="537000" />
     </task>
     <task id="LOCAL-00001" summary="jobs">
       <created>1675795286157</created>
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677067937407</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added sleep">
+      <created>1677147030692</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677147030692</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +203,7 @@
     <MESSAGE value="env dbhost db" />
     <MESSAGE value="fix" />
     <MESSAGE value="fix2" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix2" />
+    <MESSAGE value="added sleep" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sleep" />
   </component>
 </project>
